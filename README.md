@@ -10,7 +10,7 @@ This is a simple React application demonstrating the usage of Three.js Fiber alo
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/react-threejs-fiber-drei.git
+git clone https://github.com/yourusername/Chemistry-Matcher.git
 cd Chemistry-Matcher
 npm install
 npm start
